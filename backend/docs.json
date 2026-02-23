@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Greeting",
+    "content": "Hello! How can I assist you today?"
+  },
+  {
+    "title": "Hi",
+    "content": "Hi there! How can I help you?"
+  },
+  {
+    "title": "Hello",
+    "content": "Hello! I'm here to assist you with your queries."
+  },
+  {
+    "title": "Thanks",
+    "content": "You're welcome! Let me know if you need anything else."
+  },
+  {
+    "title": "Bye",
+    "content": "Goodbye! Have a great day."
+  },
+  {
+    "title": "Reset Password",
+    "content": "Users can reset password from Settings > Security."
+  },
+  {
+    "title": "Refund Policy",
+    "content": "Refunds are allowed within 7 days of purchase."
+  },
+  {
+    "title": "Account Deletion",
+    "content": "Users can delete their account from Profile Settings."
+  },
+  {
+    "title": "Change Email",
+    "content": "Users can update their email address from Account Settings."
+  },
+  {
+    "title": "Contact Support",
+    "content": "You can contact support via the Help section in the app."
+  }
+]
